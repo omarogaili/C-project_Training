@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\GrundProgramering-Hög\Apps\edabit\edabit\bin\Debug\net7.0\edabit.exe
+C:\Users\Admin\OneDrive\Desktop\GrundProgramering-Hög\Apps\edabit\edabit\bin\Debug\net7.0\edabit.deps.json
+C:\Users\Admin\OneDrive\Desktop\GrundProgramering-Hög\Apps\edabit\edabit\bin\Debug\net7.0\edabit.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\GrundProgramering-Hög\Apps\edabit\edabit\bin\Debug\net7.0\edabit.dll
+C:\Users\Admin\OneDrive\Desktop\GrundProgramering-Hög\Apps\edabit\edabit\bin\Debug\net7.0\edabit.pdb
+C:\Users\Admin\OneDrive\Desktop\GrundProgramering-Hög\Apps\edabit\edabit\obj\Debug\net7.0\edabit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\GrundProgramering-Hög\Apps\edabit\edabit\obj\Debug\net7.0\edabit.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\GrundProgramering-Hög\Apps\edabit\edabit\obj\Debug\net7.0\edabit.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\GrundProgramering-Hög\Apps\edabit\edabit\obj\Debug\net7.0\edabit.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\GrundProgramering-Hög\Apps\edabit\edabit\obj\Debug\net7.0\edabit.dll
+C:\Users\Admin\OneDrive\Desktop\GrundProgramering-Hög\Apps\edabit\edabit\obj\Debug\net7.0\refint\edabit.dll
+C:\Users\Admin\OneDrive\Desktop\GrundProgramering-Hög\Apps\edabit\edabit\obj\Debug\net7.0\edabit.pdb
+C:\Users\Admin\OneDrive\Desktop\GrundProgramering-Hög\Apps\edabit\edabit\obj\Debug\net7.0\edabit.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\GrundProgramering-Hög\Apps\edabit\edabit\obj\Debug\net7.0\ref\edabit.dll
