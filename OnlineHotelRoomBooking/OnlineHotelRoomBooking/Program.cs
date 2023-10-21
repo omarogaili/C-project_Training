@@ -7,7 +7,7 @@ internal class Program
     {
         //Dictionary<Room, string> theRooms = new Dictionary<Room, string>();
         List<Room> hotelRooms = new List<Room>();
-        int viewudds = 0;
+        
         // 200, för att vi har 200 rum. 
         for (int i = 0; i <= 200; i++)
         { 
@@ -34,7 +34,10 @@ internal class Program
         //Random rnd= new Random();
         //int index= rnd.Next(hotelRooms.Count);
         //int besökande= rnd.Next(person.Count);
-        AddPersonToTheList(person, hotelRooms);
+        int sokEfter = 0;
+        int positiv=  SökningEfterLedigaRum(hotelRooms,sokEfter);
+        Console.WriteLine(positiv);
+        //AddPersonToTheList(person, hotelRooms);
     }
     static void AddPersonToTheList(List<Person> mylist, List<Room> hotelRooms)
     {
@@ -52,13 +55,17 @@ internal class Program
                 mylist.Add(new Person(namn, inDate, outDate));
             }
     }
-
-    static DateTime SökningEfterLedigaRum(List<Room> hotelRooms, DateTime sokEfter)
+    /* den metoden ska skicka tillbaka alla lediga rum som finns i hotellet */
+    static int SökningEfterLedigaRum(List<Room> hotelRooms, int sokEfter)
     {
-
-        for (int i = 0; i < hotelRooms.Count; i++)
+        foreach(Room room in hotelRooms)
         {
-            
+            //Random random = new Random();
+            if(room.Upptagen == false)
+            {
+                room.Roomnumber= sokEfter;
+
+            }
         }
         return sokEfter;
     }

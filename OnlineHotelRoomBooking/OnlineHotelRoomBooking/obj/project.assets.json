@@ -8,24 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\ogail\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Desktop\\GrundProgramering-Hög\\Apps\\OnlineHotelRoomBooking\\OnlineHotelRoomBooking\\OnlineHotelRoomBooking.csproj",
+      "projectUniqueName": "C:\\Users\\ogail\\Desktop\\Högskolan-grund programering\\AppsGit\\OnlineHotelRoomBooking\\OnlineHotelRoomBooking\\OnlineHotelRoomBooking.csproj",
       "projectName": "OnlineHotelRoomBooking",
-      "projectPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\GrundProgramering-Hög\\Apps\\OnlineHotelRoomBooking\\OnlineHotelRoomBooking\\OnlineHotelRoomBooking.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\GrundProgramering-Hög\\Apps\\OnlineHotelRoomBooking\\OnlineHotelRoomBooking\\obj\\",
+      "projectPath": "C:\\Users\\ogail\\Desktop\\Högskolan-grund programering\\AppsGit\\OnlineHotelRoomBooking\\OnlineHotelRoomBooking\\OnlineHotelRoomBooking.csproj",
+      "packagesPath": "C:\\Users\\ogail\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ogail\\Desktop\\Högskolan-grund programering\\AppsGit\\OnlineHotelRoomBooking\\OnlineHotelRoomBooking\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\ogail\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
