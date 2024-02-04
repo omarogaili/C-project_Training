@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\GrundProgramering-Hög\Apps\testing_databas\DatabasesInformation\bin\Debug\net8.0\DatabasesInformation.deps.json
+C:\Users\Admin\OneDrive\Desktop\GrundProgramering-Hög\Apps\testing_databas\DatabasesInformation\bin\Debug\net8.0\DatabasesInformation.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\GrundProgramering-Hög\Apps\testing_databas\DatabasesInformation\bin\Debug\net8.0\DatabasesInformation.dll
+C:\Users\Admin\OneDrive\Desktop\GrundProgramering-Hög\Apps\testing_databas\DatabasesInformation\bin\Debug\net8.0\DatabasesInformation.pdb
+C:\Users\Admin\OneDrive\Desktop\GrundProgramering-Hög\Apps\testing_databas\DatabasesInformation\obj\Debug\net8.0\DatabasesInformation.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\GrundProgramering-Hög\Apps\testing_databas\DatabasesInformation\obj\Debug\net8.0\DatabasesInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\GrundProgramering-Hög\Apps\testing_databas\DatabasesInformation\obj\Debug\net8.0\DatabasesInformation.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\GrundProgramering-Hög\Apps\testing_databas\DatabasesInformation\obj\Debug\net8.0\DatabasesInformation.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\GrundProgramering-Hög\Apps\testing_databas\DatabasesInformation\obj\Debug\net8.0\DatabasesInformation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\GrundProgramering-Hög\Apps\testing_databas\DatabasesInformation\obj\Debug\net8.0\DatabasesInformation.sourcelink.json
+C:\Users\Admin\OneDrive\Desktop\GrundProgramering-Hög\Apps\testing_databas\DatabasesInformation\obj\Debug\net8.0\DatabasesInformation.dll
+C:\Users\Admin\OneDrive\Desktop\GrundProgramering-Hög\Apps\testing_databas\DatabasesInformation\obj\Debug\net8.0\refint\DatabasesInformation.dll
+C:\Users\Admin\OneDrive\Desktop\GrundProgramering-Hög\Apps\testing_databas\DatabasesInformation\obj\Debug\net8.0\DatabasesInformation.pdb
+C:\Users\Admin\OneDrive\Desktop\GrundProgramering-Hög\Apps\testing_databas\DatabasesInformation\obj\Debug\net8.0\DatabasesInformation.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\GrundProgramering-Hög\Apps\testing_databas\DatabasesInformation\obj\Debug\net8.0\ref\DatabasesInformation.dll
